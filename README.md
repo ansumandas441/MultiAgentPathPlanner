@@ -1,6 +1,9 @@
 	
 Problem:
 
+![Screenshot from 2021-03-31 21-26-54](https://user-images.githubusercontent.com/42487965/113177563-4a431b80-926b-11eb-971a-dc69f61aa3b5.png)
+
+
 	
 
 Robot sources are:
